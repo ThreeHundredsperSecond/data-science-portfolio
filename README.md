@@ -1,1 +1,17 @@
-Здесь собраны мои проекты 
+# Portfolio
+
+Здесь собраны некоторые реализованные проекты
+
+| #    | Наименование проекта                | Описание                                                     | Стек                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1.   | [Улучшение процесса обогащения золота](https://github.com/aq2003/Portfolio/tree/main/Gold%20Recovery) | Выбор лучшей модели для увеличения <br/>показателей технологического процесса <br/>обогащения золота | python, pandas, numpy, scipy, sklearn, matplotlib       |
+| 2.   | [Прогноз количества заказов для сервиса такси](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib, LGBMRegressor|
+| 3.   | [Уход клиентов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Прогноз ухода клиентов банка             | python, pandas, numpy,  sklearn, RandomForest|
+| 4.   | [Определение наиболее выгодного региона нефтедобычи](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) |  Модель для определения региона, где добыча принесёт наибольшую прибыль.              | matplotlib,numpy,pandas,python,описательная статистика,bootstrap|
+| 5.   | [Обработка фотографий покупателей](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | По фотографии определить возраст покупателя             | python, keras, tensorflow,convolutional neural network|
+| 6.   | [Построение модели определения стоимости автомобиля](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | На основе исторические данные необходимо построить модель для определения стоимости автомобиля.| python, pandas, numpy, sklearn, CatBoost,lightgbm |
+| 7.   | [Защита данных клиентов страховой компании](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) |  Разработать такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию,качество машинного обучения не должно стать хуже. | python, pandas, numpy,  sklearn |
+| 8.   | [Прогноз температуры стали во время плавки](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Оптимизация производственных расходов,<br/> разработать модель которая предскажет температуру стали,<br/> интерпретировать ее              | python, pandas, numpy, sklearn, plotly, CatBoost, LightGBM, Shap |
+| 9.   | [Классификация клиентов телеком компании](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | На основе данных предложить клиенту тариф.             | python, pandas, numpy, sklearn |
+| 10.   | [Изучение закономерностей, определяющих успешность игр](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) |Используя исторические данные о продажах компьютерных игр,<br/> оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры  |python, pandas, numpy,обработка данных, histogram, boxplot, t-test, piechart|
+| 11.   | [Обучение модели классификации комментариев](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn|
